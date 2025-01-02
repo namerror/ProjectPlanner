@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: file:///C:/Users/Administrator/Documents/IB/CSC/IA/project/ProjectPlanner/lib/jcalendar-1.4.jar
+X-COMMENT: Main-Class will be added automatically by build
+
